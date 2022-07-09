@@ -26,3 +26,5 @@ design:
 ---
 
 **CS5330 ([21 Fall](https://jianghz.me/teaching/cs5330/fall2021/), 22 Fall)**: Pattern Recognition and Computer Vision, TA
+
+**Penn AI Robotics Summer Camp (19 Summer)**, [GRASP Lab](https://www.grasp.upenn.edu/), TA
