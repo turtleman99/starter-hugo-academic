@@ -18,7 +18,7 @@ authors:
 #   # - 'Equal contribution'
 
 date: '2021-06-01T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.48550/arXiv.2208.07344'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -33,7 +33,7 @@ publication_types: ['1']
 publication: In *12th IEEE International Conference on Development and Learning*
 publication_short: In *ICDL 2022*
 
-abstract: Stay Tuned
+abstract: Machine learning models of visual action recognition are typically trained and tested on data from specific situations where actions are associated with certain objects. It is an open question how action-object associations in the training set influence a model's ability to generalize beyond trained situations. We set out to identify properties of training data that lead to action recognition models with greater generalization ability. To do this, we take inspiration from a cognitive mechanism called cross-situational learning, which states that human learners extract the meaning of concepts by observing instances of the same concept across different situations. We perform controlled experiments with various types of action-object associations, and identify key properties of action-object co-occurrence in training data that lead to better classifiers. Given that these properties are missing in the datasets that are typically used to train action classifiers in the computer vision literature, our work provides useful insights on how we should best construct datasets for efficiently training for better generalization.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -48,11 +48,11 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://arxiv.org/pdf/2208.07344.pdf'
+url_code: 'https://github.com/apple2373/action-general.icdl'
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'http://vision.soic.indiana.edu/cross-situational-action-recognition/'
 url_slides: ''
 url_source: ''
 url_video: ''
