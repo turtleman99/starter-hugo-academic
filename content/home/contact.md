@@ -28,10 +28,10 @@ content:
   email: gweng.aca AT gmail.com
   phone: +1 302-364-6860
   address:
-    street: 22nd Floor, 177 Huntington Ave
+    street: 177 Huntington Ave, 22nd Floor
     city: Boston
     region: MA
-    postcode: '02148'
+    postcode: '02115'
     country: United States
     country_code: US
   # coordinates:

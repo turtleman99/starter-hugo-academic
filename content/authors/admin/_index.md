@@ -67,7 +67,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a first-year Ph.D. student in Computer Science at [Northeastern University](https://www.northeastern.edu/), advised by [Prof. Huaizu Jiang](https://jianghz.me/). My research interest lies broadly in computer vision, including compositional reasoning and egocentric vision. I work on metric and representation learning for visual reasoning, enhancing the vision model with inductive capability.
+I am a second-year Ph.D. student in Computer Science at [Northeastern University](https://www.northeastern.edu/), advised by [Prof. Huaizu Jiang](https://jianghz.me/). My research interest lies broadly in computer vision, including compositional reasoning and egocentric vision. I work on metric and representation learning for visual reasoning, enhancing the vision model with inductive capability.
 
 
 Before joining Northeastern University, I was a research intern in [IU Computer Vision Lab](http://vision.soic.indiana.edu/), supervised by [Prof. David J. Crandall](https://homes.luddy.indiana.edu/djcran/). Before that, I worked with [Prof. Sören Schwertfeger](https://robotics.shanghaitech.edu.cn/people/soeren) as a research assistant at [The Mobile Autonomous Robotic Systems Lab](https://robotics.shanghaitech.edu.cn/). I obtained my B.E. degree from [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/) in July 2021.
